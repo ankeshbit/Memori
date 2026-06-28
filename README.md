@@ -270,6 +270,7 @@ _(unstreamed, streamed, synchronous and asynchronous)_
 
 - Agno
 - LangChain
+- LlamaIndex
 - Pydantic AI
 
 ## Supported Platforms
